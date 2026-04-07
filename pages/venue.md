@@ -10,7 +10,8 @@ From Chougan Chowk, you have to take a right towards the location. Although walk
 
 For more details on how to reach Bir itself checkout [https://hillhacks.in/travel/](https://hillhacks.in/travel/)
 
-<!--TODO -OSM Map embedding -->
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=76.72873288393022%2C32.02755448375879%2C76.73161625862123%2C32.029364536786076&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/32.028460/76.730175">View Larger Map</a></small>
+
 
 
 Address
@@ -29,26 +30,23 @@ Address
 
 
 ### Some photos
-<!-- Add Photos
 <div class="row homepage-gallery">
   <div class="col-md-12 no-padding mt20">
      <div class="row">
-      {% for num in (1..14) %}
-      {% capture image_href %}{{site.baseurl}}/assets/images/2022-venue/img-venue-{{num}}.jpg{% endcapture %}
+      {% for num in (1..8) %}
+      {% capture image_href %}{{site.baseurl}}/assets/images/2026-venue/img-venue-{{num}}.png{% endcapture %}
       {% include lightbox-image.html href=image_href %}
       {% endfor %}
     </div>
   </div>
 </div>
--->
 
 ### Food & Accommodation
 
-<!--
-Food(Veg.) is available at the venue of 300₹ per person per day which includes breakfast, lunch, dinner.
+
+Food(Veg.) is available at the venue of 00₹ per person per day which includes breakfast, lunch, dinner.
 Custom food options are also available and it can be requested with Jubeesh. Charged separately.
 If the kitchen is available, you can cook. 
--->
 There are multiple options for accommodation at the venue, check [accommodation][accommodation] for more details.
 
  [accommodation]: {{site.baseurl}}/accommodation/

@@ -59,7 +59,7 @@ book.
 
 #### From Delhi
 
-Bir is about 12-14 hours from Delhi by bus.  From the Inter-state Bus Terminal
+Bir is about 12-14 hours from Delhi by bus.  From the Kashmere Gate Inter-State Bus Terminal
 (ISBT), take a bus to either Baijnath or Bir Road (the latter is closer, but
 most buses from Delhi only go as far as Baijnath).  There is direct bus (Volvo)
 from Delhi to Bir that departs at 18:48 from ISBT Kashmiri Gate.  There are two
@@ -70,6 +70,13 @@ destination in Bir from Baijnath).
 
 Tickets can be booked at [HRTC](http://www.hrtchp.com/hrtctickets/) and multiple 
 online bus booking aggregators.
+
+There are also multiple private bus operators which run multiple buses from Kashmere
+Gate to Bir daily. Some of them are are Laxmi Travels, Ram Dalal, Bedi travels etc. 
+Tickets for these can be booked on multiple private bus booking websites like Red Bus
+or abhi bus etc.
+The usual starting point for these buses is from Kashmere Gate and they will drop 
+you directly in Bir Market. 
 
 #### From Pathankot/Chakki Bank
 
@@ -134,7 +141,7 @@ From Bir Road[^1]
 : 5 minutes, Rs. 60-70
 ^
 From Bir Road to Upper Bir
-: 10 minutes, Rs. 90-100
+: 10 minutes, Rs. 150-200
 
 [^1]: The closest stop for most long-distance buses to Chowgan (including the
       Tibetan Colony or Deer Park).
